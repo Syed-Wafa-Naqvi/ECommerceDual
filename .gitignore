@@ -1,0 +1,30 @@
+# Files to be ignored by Git
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.log
+*.env
+*.pot
+*.pyc
+*.egg-info/
+*.egg
+*.coverage
+*.tox/
+*.mypy_cache/
+*.pytest_cache/
+*.coverage.*
+*.hypothesis/
+*.coverage.*
+*.DS_Store
+*.idea/
+*.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*.sublime-settings
+*.sublime-project
+*.sublime-workspace
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
